@@ -1,2 +1,5 @@
 # PO-projekt1
-Programowanie obiektowe, Uniwersytet Warszawski, Informatyka (II semestr)
+
+Pierwszy projekt z programowania obiektowego.
+
+Program obliczający optymalne ułożenie prętów na budowie według różnych strategii. (niedokończony)
